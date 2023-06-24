@@ -1,0 +1,15 @@
+#thetitle {
+    font-family: cursive, sans-serif;
+    font-size: 50px;
+    color: bisque;
+    background-color: orange;
+    padding-top: 10px;
+}
+
+
+
+#mainimage, 
+.allrecipes,
+#thetitle  {
+    text-align: center;
+}
