@@ -1,0 +1,48 @@
+body {
+    background-color: #ffad33;
+}
+
+.heading {
+    text-align: center;
+}
+
+img {
+    height: 280px;
+    width: 200px;
+}
+
+figcaption {
+    margin-top: 6px;
+}
+
+main {
+    background-color: white;
+}
+
+.description {
+    padding-top: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.ingredients {
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+.theinstructions {
+    text-align: center;
+    
+}
+
+#thelist {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+
